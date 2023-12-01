@@ -25,7 +25,7 @@
     "@aws-sdk/util-dynamodb": "^3.282.0",
     "@nestjs/common": "^8.0.0",
     "@nestjs/config": "^2.3.0",
-    "@nestjs/core": "^8.0.0",
+    "@nestjs/core": "^9.0.5",
     "@nestjs/platform-express": "^8.0.0",
     "@nestjs/swagger": "^6.1.4",
     "@ssut/nestjs-sqs": "^1.2.0",
